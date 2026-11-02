@@ -18,5 +18,5 @@
 
 /* В темной теме REC виден */
 .theme-dark .header__rec {
-  display: flex; 
+  display: flex;
 }
